@@ -148,5 +148,4 @@ Machine halting!
 * If you already built with wrong settings, clean old build files before rebuilding.
 * If `test1` runs successfully, the setup is complete.
 
-```
-```
+
