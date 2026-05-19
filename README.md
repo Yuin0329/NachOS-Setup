@@ -1,8 +1,7 @@
 
 # NachOS 4.0 Setup on Ubuntu
-
-This guide shows how to build and run NachOS 4.0 on Ubuntu.<br>
 Hackmd 好讀版：https://hackmd.io/@YUIN/HyR6haYkGx
+This guide shows how to build and run NachOS 4.0 on Ubuntu.<br>
 
 ## Environment
 
