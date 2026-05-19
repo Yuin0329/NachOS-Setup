@@ -3,6 +3,7 @@
 Hackmd 好讀版：https://hackmd.io/@YUIN/HyR6haYkGx <br>
 <br>
 This guide shows how to build and run NachOS 4.0 on Ubuntu.
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/a863b4a3-75e3-44c9-890c-82b43eafde9d" />
 
 ## Environment
 
