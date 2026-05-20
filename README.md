@@ -146,6 +146,7 @@ Print integer:6
 return value:0
 Machine halting!
 ```
+<img width="1412" height="831" alt="image" src="https://github.com/user-attachments/assets/f2228c90-6112-4c0c-8b01-84c86881c80c" />
 
 ## Notes
 
