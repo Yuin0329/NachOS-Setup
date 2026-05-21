@@ -102,7 +102,7 @@ CFLAGS=-m32 -I../lib -I../threads $(HOST)
 LD=gcc -m32
 ```
 
-## 8. Clean old build files
+## 8. Clean old build files (Optional / Troubleshooting)
 If you already built NachOS with wrong settings, or `make clean` does not fully clean old files, remove old build files manually:
 ```bash
 cd ~/oslab/nachos-4.0/code
