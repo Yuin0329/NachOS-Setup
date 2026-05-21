@@ -103,7 +103,7 @@ LD=gcc -m32
 ```
 
 ## 8. Clean old build files
-
+If you already built NachOS with wrong settings, or `make clean` does not fully clean old files, remove old build files manually:
 ```bash
 cd ~/oslab/nachos-4.0/code
 
