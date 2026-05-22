@@ -122,7 +122,6 @@ rm -f *.o *.coff *.noff halt test1 test2 add createFile fileIO*
 
 ```bash
 cd ~/oslab/nachos-4.0/code
-make clean
 make
 ```
 
